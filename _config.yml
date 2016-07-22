@@ -1,0 +1,28 @@
+name: canada two the revenge
+favicon: null
+layout_spectrum: 0.8888428946956992
+typography_spectrum: 0.9883579993620515
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.33104707580059767
+  lightness: 0.9128172087948769
+  saturation: 0.07843433739617467
+  rhythmicContrast: 0.3472134619951248
+purpose: []
