@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[canada two the revenge]]></title>
+        <description><![CDATA[canada two the revenge]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 22 Jul 2016 21:33:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b5106d0-94e5-4651-8580-b975fb51a453.jpg">]]></description>
+            <link>undefinedthis-is-a-test-of-a-blog-post/index.html</link>
+            <guid isPermaLink="false">c1c4a8ac-6528-4220-8f82-1f5d8260d8cb</guid>
+            <pubDate>Fri, 22 Jul 2016 21:33:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
